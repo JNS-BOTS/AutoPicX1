@@ -13,22 +13,22 @@
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "1747534",
       "required": true
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": "",
+      "value": "5a2684512006853f2e48aca9652d83ea",
       "required": true
     },
     "SESSION": {
       "description": "Generate this value from @CatStringSessionBot in telegram",
-      "value": "",
+      "value": "1BVtsOIoBu7EpfDM-A0CLUUGBDbsQZaOwV8KgeH3boTAQm1Gbgfa_awtTarfSeuiEkOUQwC-meI_mEaXp348ecai6vygMsQHHpDyZzHW8HTeD1VVG9Hqms2PE65BGWx--Waj91JurHua9X0ghHYfovaE_tZNvnGj98mYpqKri8l8eA_Rm00yKMRC1rQMwWB0Ive8Z_f39FcIF2TTeIAiB4Fmqpt6RqpBau7j0R66ndu0wy3Nsdurvfduf8qKgfkDtCFdW83pwns4VJUt_zeHWf2N9mNtJYPu4uXt5_cgKRgzF9zffWPc0YymoOKBh8B-cA9aFb84cXbGviS7kMbKzEPoDp1lmIsE=",
       "required": true
     },
     "CHANNEL_ID": {
       "description": "Place the ID of channel in which the pictures are saved to change your profile pic (Include -100 with ID)",
-      "value": "",
+      "value": "-1001696873364",
       "required": true
     },
     "TIME": {
